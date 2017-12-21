@@ -9,7 +9,6 @@ class TieTests: XCTestCase {
         XCTAssertEqual(Tie().text, "Hello, World!")
     }
 
-
     static var allTests = [
         ("testExample", testExample),
     ]

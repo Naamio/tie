@@ -3,4 +3,5 @@ import XCTest
 
 XCTMain([
     testCase(TieTests.allTests),
+    testCase(TieWebTests.allTests),
 ])
